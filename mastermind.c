@@ -27,6 +27,8 @@
 			//if there is a match (exit out of the loop, a single correct guess should not reveal the duplicates resuls)
 	//returns (number of colours matched)
 
+//add a comment here for git to show the difference. 
+
 //main
 
 #define SEQ_LEN 4
